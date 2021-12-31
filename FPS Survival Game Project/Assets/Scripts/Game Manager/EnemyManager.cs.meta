@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 03d53ba994d86a04ab276c864ebe7040
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boar_Prefab: {fileID: 8079151534533521893, guid: 6bcbdc36bfc25d0419bcd4a11dac4870, type: 3}
+  - cannibal_Prefab: {fileID: 3395337223338071109, guid: 928816afa2a81504781766513206270a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
